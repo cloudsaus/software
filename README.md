@@ -20,7 +20,8 @@
  - https://docker.com
  - kubernettes 
  - lxc containers 
-
+ - https://helm.sh/
+ 
 ## hypervisor
  - quemu/kvm 
 
@@ -29,8 +30,7 @@
  - 
 ## monitoring
  - Grafana and prometheus 
- - uptime kuma 
- - https://www.splunk.com/
+ - uptime kuma
 
 ## deployment tools
  - https://github.com/SelfhostedPro/Yacht/ 
